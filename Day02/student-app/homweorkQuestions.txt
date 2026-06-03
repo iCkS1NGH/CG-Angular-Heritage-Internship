@@ -1,0 +1,5 @@
+1. Create variables: name, age, city, and course using appropriate TypeScript data types.
+2. Create one variable using 'let' and one using 'const'. Explain the difference in comments.
+3. Create variables of type string, number, and boolean.
+4. Create an interface named Student with id, name, branch, and age properties.
+5. Create variables in app.component.ts and display them in app.component.html using interpolation {{ }}.
