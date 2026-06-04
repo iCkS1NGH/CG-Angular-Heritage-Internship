@@ -4,11 +4,9 @@
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.13.
 ```
 
-```
 In this project we implement a custom componennt named "user-profile" and display user's follower count and provide a button to follow user. Implement the button with a increment method.
-```
 
-```
+
 ## Steps:
     1. ng new student-app
 
@@ -25,13 +23,10 @@ In this project we implement a custom componennt named "user-profile" and displa
     7. ng serve
 
     8. Click the link to see the preview.
-```
 
-```
+
 ### Preview:
 ![Preview Image](./assets/preview.png)
-```
 
-```
-[Assignment link]()
-```
+
+[Assignment link](https://docs.google.com/document/d/e/2PACX-1vSSU0zKA1HiST5wl1yoQuYGSW-5EsiRi6b07YoSt3GVRX4TjJWPOjk5EVDhBivCvlCdiw7Mn9luNkKg/pub)
